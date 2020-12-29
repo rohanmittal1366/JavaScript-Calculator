@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is my Github page for calculator
 
 You can use the [editor on GitHub](https://github.com/rohanmittal1366/JavaScript-Calculator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+In this, i used HTML, CSS and JavaScript for making this calculator
+It contain some basic operation like addition, substraction, multiplication and division.
 ```markdown
 Syntax highlighted code block
 
@@ -22,8 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Below is the link for the calculator. 
+https://rohanmittal1366.github.io/JavaScript-Calculator/calci.html 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
